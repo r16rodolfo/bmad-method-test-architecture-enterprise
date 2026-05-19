@@ -130,7 +130,9 @@ Epic-level mode remains single-worker by default (one output artifact).
 Ensure the outputs include:
 
 - Risk assessment matrix
+- NFR planning summary (thresholds, missing thresholds, planned evidence, and NFR-derived risks)
 - Coverage matrix and priorities
+- NFR coverage and planned evidence mapping
 - Execution strategy
 - Resource estimates (ranges)
 - Quality gate criteria
